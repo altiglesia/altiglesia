@@ -68,11 +68,10 @@ Full Stack Software Engineer | Photographer & Filmmaker | Coding Instructor | Bo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
   </a>
 </p>
-          
-         
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altiglesia)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=altiglesia)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altiglesia&hide_progress=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=altiglesia&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1] 
