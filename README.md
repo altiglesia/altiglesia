@@ -1,12 +1,14 @@
-### Hi! I'm Alexandra Iglesia. Welcome!
+<h1> Hi! I'm Alexandra Iglesia. Welcome! </h1>
 
-Projects I've made:
+<h3>Projects I've made:</h3>
 
-🎮 A Bit of Life 👾 
+<h4 align="center">🎮 A Bit of Life 👾 </h4>
 An 8-bit 2D RPG spin on TeleGeography’s Submarine Cable Map. Full-stack application programmed with JS, React/Redux, and Ruby on Rails, designed with Adobe Photoshop, Audition, and Tiled. Game features include:
-- Personality quiz determining user's value of 0 or 1
-- Keyboard functionality for gameplay
-- Over 500 real international submarine cables from TeleGeography’s API
+<ul>
+  <li>Personality quiz determining user's value of 0 or 1</li>
+  <li>Keyboard functionality for gameplay</li>
+  <li>Over 500 real international submarine cables from TeleGeography’s API</li>
+</ul>
 
 <p align="center">
   <img alt="A Bit of Life Landing" src="https://user-images.githubusercontent.com/111707308/223500341-d4f78f22-3d13-4127-a3cc-509c50c85461.gif"     width="45%">
@@ -14,28 +16,68 @@ An 8-bit 2D RPG spin on TeleGeography’s Submarine Cable Map. Full-stack applic
   <img alt="A Bit of Life Keyboard" src="https://user-images.githubusercontent.com/111707308/223498691-4861e17d-58df-42e0-be75-f3cb5b144405.gif" width="45%">
 </p>
 
-👟 Fli-Kix 💸
+<br />
+
+<h4 align="center"> 👟 Fli-Kix 💸 </h4>
 Customizable shoe color palette and save as non-fungible kicks. Frontend application programmed with JS, React, and vanilla CSS. Uses full CRUD with Node server. Designed with Adobe Illustrator. Maniputes SVG and polygon elements. Converts DOM elements to images using a dataURL. App features include:
-- Changing color of individual parts of Nike AirForce One
-- Saving custom changes to a viewable gallery
-- Purchasing and naming designs
+<ul>
+  <li>Changing color of individual parts of Nike AirForce One</li>
+  <li>Saving custom changes to a viewable gallery</li>
+  <li>Purchasing and naming designs</li>
+</ul>
 
 <p align="center">
   <img alt="Fli-Kix Customizable" src="https://user-images.githubusercontent.com/111707308/223507415-1333658b-3a67-4a4c-84dc-3a6f1da24408.gif" width="45%">
   <img alt="Fli-Kix Checkout" src="https://user-images.githubusercontent.com/111707308/223509305-b72d7a27-a3c6-40a7-8c6e-70f21b4c0a49.gif" width="45%">
 </p>
 
-<!--
-**altiglesia/altiglesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<h2>About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Software Engineer | Photographer & Filmmaker | Coding Instructor | Bookworm
+<br />
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   
+  </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="ruby" width="40" height="40"/>
+  </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
+</p>
+          
+         
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altiglesia)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=transparent)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=altiglesia)](https://git.io/streak-stats)
+
+---
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1] 
+![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)
+---
+
+[1]: https://github.com/altiglesia
+[2]: https://www.linkedin.com/in/alexandra-iglesia/
