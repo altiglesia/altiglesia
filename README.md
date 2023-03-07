@@ -2,7 +2,7 @@
 
 <h3>Projects I've made:</h3>
 
-<h4 align="center">🎮 A Bit of Life 👾 </h4>
+<h3 align="center">🎮 A Bit of Life 👾 </h3>
 An 8-bit 2D RPG spin on TeleGeography’s Submarine Cable Map. Full-stack application programmed with JS, React/Redux, and Ruby on Rails, designed with Adobe Photoshop, Audition, and Tiled. Game features include:
 <ul>
   <li>Personality quiz determining user's value of 0 or 1</li>
@@ -18,7 +18,7 @@ An 8-bit 2D RPG spin on TeleGeography’s Submarine Cable Map. Full-stack applic
 
 <br />
 
-<h4 align="center"> 👟 Fli-Kix 💸 </h4>
+<h3 align="center"> 👟 Fli-Kix 💸 </h3>
 Customizable shoe color palette and save as non-fungible kicks. Frontend application programmed with JS, React, and vanilla CSS. Uses full CRUD with Node server. Designed with Adobe Illustrator. Maniputes SVG and polygon elements. Converts DOM elements to images using a dataURL. App features include:
 <ul>
   <li>Changing color of individual parts of Nike AirForce One</li>
