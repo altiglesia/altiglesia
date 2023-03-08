@@ -12,7 +12,6 @@ An 8-bit 2D RPG spin on TeleGeography’s Submarine Cable Map. Full-stack applic
 
 <p align="center">
   <img alt="A Bit of Life Landing" src="https://user-images.githubusercontent.com/111707308/223500341-d4f78f22-3d13-4127-a3cc-509c50c85461.gif"     width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="A Bit of Life Keyboard" src="https://user-images.githubusercontent.com/111707308/223498691-4861e17d-58df-42e0-be75-f3cb5b144405.gif" width="45%">
 </p>
 
