@@ -34,11 +34,13 @@ Customizable shoe color palette and save as non-fungible kicks. Frontend applica
 
 <h2>About Me</h2>
 
-Full Stack Software Engineer | Photographer & Filmmaker | Coding Instructor | Bookworm
+<h4 align="center">
+  Full Stack Software Engineer | Photographer & Filmmaker | Coding Instructor | Bookworm
+</h4>
+
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> 
   </a>
@@ -68,13 +70,17 @@ Full Stack Software Engineer | Photographer & Filmmaker | Coding Instructor | Bo
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altiglesia&hide_progress=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=altiglesia&theme=highcontrast)](https://git.io/streak-stats)
+<div align="center" dir="auto">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altiglesia&hide_progress=true&theme=vision-friendly-dark" />
+  <br></br>
+ <img src="https://streak-stats.demolab.com/?user=altiglesia&theme=highcontrast"/>
+</div>
 
 ---
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1] 
-![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)
+<div align="center" dir="auto">
+  <img src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" href="https://github.com/altiglesia" />
+  <img src="https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png" href="https://www.linkedin.com/in/alexandra-iglesia/" />
+</div>
 ---
 
 [1]: https://github.com/altiglesia
