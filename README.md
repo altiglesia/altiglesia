@@ -1,7 +1,6 @@
 <h1> Hi! I'm Alexandra Iglesia. Welcome! </h1>
 
-<h3>Featured Projects:</h3>
-
+<h3><i>Featured Projects:</i></h3>
 <h3 align="center">🎮 A Bit of Life 👾 </h3>
 An 8-bit 2D RPG spin on TeleGeography’s Submarine Cable Map. Full-stack application programmed with JS, React/Redux, and Ruby on Rails, designed with Adobe Photoshop, Audition, and Tiled. Game features include:
 <ul>
