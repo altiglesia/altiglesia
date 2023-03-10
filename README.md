@@ -10,8 +10,12 @@ An 8-bit 2D RPG spin on TeleGeography’s Submarine Cable Map. Full-stack applic
 </ul>
 
 <p align="center">
-  <img alt="A Bit of Life Landing" src="https://user-images.githubusercontent.com/111707308/223500341-d4f78f22-3d13-4127-a3cc-509c50c85461.gif"     width="45%" href="https://abitoflife.onrender.com/">
-  <img alt="A Bit of Life Keyboard" src="https://user-images.githubusercontent.com/111707308/223498691-4861e17d-58df-42e0-be75-f3cb5b144405.gif" width="45%" href="https://github.com/altiglesia/a-bit-of-life">
+  <a href="https://abitoflife.onrender.com/">
+    <img alt="A Bit of Life Landing" src="https://user-images.githubusercontent.com/111707308/223500341-d4f78f22-3d13-4127-a3cc-509c50c85461.gif"       width="45%" />
+  </a>
+  <a href="https://github.com/altiglesia/a-bit-of-life">
+    <img alt="A Bit of Life Keyboard" src="https://user-images.githubusercontent.com/111707308/223498691-4861e17d-58df-42e0-be75-f3cb5b144405.gif" width="45%" />
+    </a>
 </p>
 
 <br />
@@ -25,8 +29,12 @@ Customizable shoe color palette and save as non-fungible kicks. Frontend applica
 </ul>
 
 <p align="center">
-  <img alt="Fli-Kix Customizable" src="https://user-images.githubusercontent.com/111707308/223507415-1333658b-3a67-4a4c-84dc-3a6f1da24408.gif" width="45%" href="https://fli-kix.netlify.app/">
-  <img alt="Fli-Kix Checkout" src="https://user-images.githubusercontent.com/111707308/223509305-b72d7a27-a3c6-40a7-8c6e-70f21b4c0a49.gif" width="45%" href="https://github.com/chris-t-li/project-fli-kix">
+  <a href="https://fli-kix.netlify.app/">
+    <img alt="Fli-Kix Customizable" src="https://user-images.githubusercontent.com/111707308/223507415-1333658b-3a67-4a4c-84dc-3a6f1da24408.gif" width="45%" />
+  </a>
+  <a href="https://github.com/chris-t-li/project-fli-kix">
+    <img alt="Fli-Kix Checkout" src="https://user-images.githubusercontent.com/111707308/223509305-b72d7a27-a3c6-40a7-8c6e-70f21b4c0a49.gif" width="45%" />
+  </a>
 </p>
 
 <br />
@@ -77,6 +85,12 @@ Customizable shoe color palette and save as non-fungible kicks. Frontend applica
 
 ---
 <div align="center" dir="auto">
-  <img src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" href="https://github.com/altiglesia" />
-  <img src="https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png" href="https://www.linkedin.com/in/alexandra-iglesia/" />
+  <p>
+    <a href="https://github.com/altiglesia">
+      <img src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" />
+    </a>
+    <a href="https://www.linkedin.com/in/alexandra-iglesia/">
+      <img src="https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png" />
+    </a>
+  </p>
 </div>
