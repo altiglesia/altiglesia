@@ -81,7 +81,3 @@ Customizable shoe color palette and save as non-fungible kicks. Frontend applica
   <img src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" href="https://github.com/altiglesia" />
   <img src="https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png" href="https://www.linkedin.com/in/alexandra-iglesia/" />
 </div>
----
-
-[1]: https://github.com/altiglesia
-[2]: https://www.linkedin.com/in/alexandra-iglesia/
