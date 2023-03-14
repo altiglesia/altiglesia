@@ -21,7 +21,7 @@ An 8-bit 2D RPG spin on TeleGeography’s Submarine Cable Map. Full-stack applic
 <br />
 
 <h3 align="center"> 👟 Fli-Kix 💸 </h3>
-Customizable shoe color palette and save as non-fungible kicks. Frontend application programmed with JS, React, and vanilla CSS. Uses full CRUD with Node server. Designed with Adobe Illustrator. Maniputes SVG and polygon elements. Converts DOM elements to images using a dataURL. App features include:
+Customizable shoe color palette and save as non-fungible kicks. Frontend application programmed with JS, React, and vanilla CSS. Uses full CRUD with Node server. Designed with Adobe Illustrator. Manipulates SVG and polygon elements. Converts DOM elements to images using a dataURL. App features include:
 <ul>
   <li>Changing color of individual parts of Nike AirForce One</li>
   <li>Saving custom changes to a viewable gallery</li>
